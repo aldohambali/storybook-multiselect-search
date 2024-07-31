@@ -1,4 +1,9 @@
-## Preview
+## Live preview
+
+Demo [here](https://aldoayli.com/test/multiselectsearch).
+Storybook [here](https://aldoayli.com/test/storybook).
+
+## Screenshoot
 
 ![Preview 1](https://github.com/aldohambali/storybook-multiselect-search/blob/main/1.png)
 
